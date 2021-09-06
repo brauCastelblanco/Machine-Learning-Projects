@@ -1,3 +1,4 @@
+## Project 1 of my Machine learning path
 # regression_model
 ## Creating a linear regression  model for an e-commerce company 
 
