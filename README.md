@@ -13,3 +13,10 @@ In this Jupyter Notebook i explore an e-commerce database that shows:
   -Yearly Amount Spent
 
 At first i proceed to dp an EDA to the database to get a better understanding of the data presented, then i train a linear regression model to observe the relations of the variables
+
+### Main libraries used:
+  - Pandas
+  - Numpy
+  - Matplotlib
+  - SeaBorn
+  - Scikit-Learn
