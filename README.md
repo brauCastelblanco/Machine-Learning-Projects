@@ -5,4 +5,9 @@ This project aims to explore and analyze an e-commerce database using a Jupyter 
 
 Following the EDA, a linear regression model is trained to further investigate these relationships and predict yearly spending. 
 
-The project leverages popular Python libraries such as Pandas, Numpy, Matplotlib, Seaborn, and Scikit-Learn to perform data manipulation, visualization, and modeling.
+#### Tools:
+ - Pandas
+ - Numpy
+ - Matplotlib
+ - Seaborn
+ - Scikit-learn
