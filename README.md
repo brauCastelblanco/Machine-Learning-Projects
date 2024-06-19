@@ -1,2 +1,2 @@
-## Projects of my Machine learning path
+## Machine Learning projects
 
