@@ -1,5 +1,4 @@
-## Project 1 of my Machine learning path
-# regression_model
+## Regression_model
 ## Creating a linear regression  model for an e-commerce company 
 
 In this Jupyter Notebook i explore an e-commerce database that shows:
