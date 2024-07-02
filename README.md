@@ -11,4 +11,15 @@ Following the EDA, a linear regression model is trained to further investigate t
  - Numpy
  - Matplotlib
  - Seaborn
- - Scikit-learn
+ - Scikit-learn linear regression module
+
+### 2. Advertising, logistic regression
+### branch: logistic_regression
+This project analyzes the relationship between the clicked ads and the results of the company.
+
+#### Tools:
+ - Pandas
+ - Numpy
+ - Matplotlib
+ - Seaborn
+ - Scikit-learn logistic regression module
